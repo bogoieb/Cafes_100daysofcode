@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:Day 66}/instance/cafes.db",
+            "name": "cafes",
+            "group": "cafes"
+        }
+    ]
+}
